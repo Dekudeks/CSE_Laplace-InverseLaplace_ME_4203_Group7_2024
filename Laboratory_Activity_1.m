@@ -4,6 +4,8 @@ clc
 close all
 
 syms t s
+%% Solving for the Laplace Transform
+
 F1_s = 3-exp(-3*t)+5*sin(2*t);
 f1_t = laplace(F1_s)
 pretty(f1_t)
@@ -15,6 +17,8 @@ pretty(f2_t)
 F3_s = (t+1)*(t+2);
 f3_t = laplace(F3_s)
 pretty(f3_s)
+
+%% Solving for the Inverse Laplace Transform
 
 F4_s = (8-3*s+s^2)/s^3;
 f4_t = ilaplace(F4_s)
