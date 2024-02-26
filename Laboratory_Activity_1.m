@@ -4,6 +4,8 @@ clc
 close all
 
 syms t s
+
+%% ASSIGNMENT 1
 %% Solving for the Laplace Transform
 
 F1_s = 3-exp(-3*t)+5*sin(2*t);
@@ -31,6 +33,8 @@ pretty(f5_t)
 F6_s = 7/(s^2+6);
 f6_t = ilaplace(F6_s)
 pretty(f6_t)
+
+%% ASSIGNMENT 2
 
 F7_s = 1 / [s*(s^2 + 2*s + 2)];
 f7_t = ilaplace(F7_s)
