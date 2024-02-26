@@ -6,7 +6,7 @@ close all
 syms t s
 
 %% ASSIGNMENT 1
-%% Solving for the Laplace Transform
+%% I. Solving for the Laplace Transform
 
 F1_s = 3-exp(-3*t)+5*sin(2*t);
 f1_t = laplace(F1_s)
@@ -20,7 +20,7 @@ F3_s = (t+1)*(t+2);
 f3_t = laplace(F3_s)
 pretty(f3_t)
 
-%% Solving for the Inverse Laplace Transform
+%% II. Solving for the Inverse Laplace Transform
 
 F4_s = (8-3*s+s^2)/s^3;
 f4_t = ilaplace(F4_s)
@@ -34,7 +34,7 @@ F6_s = 7/(s^2+6);
 f6_t = ilaplace(F6_s)
 pretty(f6_t)
 
-%% ASSIGNMENT 2
+%% III. Solving for the Inverse Laplace Transform
 
 F7_s = 1 / [s*(s^2 + 2*s + 2)];
 f7_t = ilaplace(F7_s)
