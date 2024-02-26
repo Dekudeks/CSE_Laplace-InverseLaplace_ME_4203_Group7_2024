@@ -16,7 +16,7 @@ pretty(f2_t)
 
 F3_s = (t+1)*(t+2);
 f3_t = laplace(F3_s)
-pretty(f3_s)
+pretty(f3_t)
 
 %% Solving for the Inverse Laplace Transform
 
