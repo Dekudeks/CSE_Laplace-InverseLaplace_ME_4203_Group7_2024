@@ -5,7 +5,6 @@ close all
 
 syms t s
 
-
 %% II. Solving for the Inverse Laplace Transform
 
 F4_s = (8-3*s+s^2)/s^3;
@@ -19,3 +18,4 @@ pretty(f5_t)
 F6_s = 7/(s^2+6);
 f6_t = ilaplace(F6_s)
 pretty(f6_t)
+
