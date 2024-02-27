@@ -11,7 +11,8 @@ ASSIGNMENT 1
 
 ![429326296_318010524585316_31535112383566092_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/161009651/f3647cd5-2bd4-4eae-ad9b-e87d537ca251)
 
-
+![423454551_1512023269375554_6890945449768342197_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/160557228/7ff9b2fe-86d3-42c0-9d39-4cec3e05944d)
+![ass 1](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/160557228/c3ae01b4-3a10-48c7-940a-6cbb8ac7b8a9)
 
 ASSIGNMENT 2
 ![428287638_2563275267212593_6240682059466625883_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/161302464/bdf76d24-b679-4289-9b6c-8f1a735e6e74)
@@ -24,3 +25,6 @@ ASSIGNMENT 2
 
 ![429787485_413591547859704_3268576417336283860_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/161009651/645bec0f-7614-49a7-a184-18e867ae27e0)
 
+![ass 2](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/160557228/d042b608-326a-41af-9edf-be94209c3ddb)
+![420534088_382115534566572_4206981869891064754_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/160557228/8054f821-d710-4d53-8b82-2a7916767f0f)
+![423454452_266753179800632_3418360960970558087_n](https://github.com/Dekudeks/CSE_Laplace-InverseLaplace_ME_4203_Group7_2024/assets/160557228/af298d56-0d6e-4f89-b490-cf4e0fa56955)
